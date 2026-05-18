@@ -117,6 +117,8 @@ CREATE TABLE zepto (
 ## 👨‍💻 About the Author
 shoaib khan
 
+ LinkedIn: linkedin.com/in/shoaibkhan39
 
+Let’s connect professionally and grow your data career
 
 ## 💡 Thanks for checking out the project! Your support means a lot — feel free to star ⭐ this repo or share it with someone learning SQL.🚀
